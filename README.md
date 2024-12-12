@@ -81,6 +81,7 @@ Suggesting new features.
 Submitting pull requests.
 Acknowledgements
 Special thanks to everyone who contributed to this project.
-     
+     ![Capture d'écran 2024-12-12 170715](https://github.com/user-attachments/assets/4db70693-1366-4785-b7cd-8df737282577)
+
    
     
