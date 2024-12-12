@@ -36,33 +36,6 @@ This project leverages **Natural Language Processing (NLP)** and machine learnin
 
 3. **Image Suggestions**:
    - Based on the predicted title, the frontend fetches related images and displays them.
-
-## Setup Instructions
-
-### Frontend Setup
-1. Navigate to the `frontend` folder:
-   ```bash
-   cd frontend
-2. Install dependencies:
-    ```bash
-    npm install
-3. Start the React application:
-     ```bash
-   npm start
-5. Access the application:http://localhost:3000
-### Backend Setup
-1. Navigate to the backend folder:
-  ```bash
-   cd backend
-2. Install dependencies:
-  ```bash
-  pip install -r requirements.txt
-3. Start the FastAPI application
-  ```bash
-   uvicorn main:app --reload
-4. Access the API: http://localhost:8000
-
-
 ### API Endpoints
 Backend API
 POST /predict/:
@@ -85,3 +58,22 @@ Special thanks to everyone who contributed to this project.
      
    
     
+
+## Setup Instructions
+
+### Frontend Setup
+1. Navigate to the `frontend` folder:
+   ```bash
+   cd frontend
+2. Install dependencies:
+    ```bash
+    npm install
+3. Start the React application:
+     ```bash
+   npm start
+5. Access the application:http://localhost:3000
+### Backend Setup
+1. Navigate to the backend folder:
+  ```bash
+   cd backend
+
