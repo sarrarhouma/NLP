@@ -76,4 +76,5 @@ Special thanks to everyone who contributed to this project.
 1. Navigate to the backend folder:
   ```bash
    cd backend
-
+2. Install dependencies :
+npm install
