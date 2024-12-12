@@ -36,8 +36,8 @@ To set up and run the project, follow these steps:
  ```bash
 pip install -r requirements.txt
 
-3. Run the FastAPI application:
+3.  Run the FastAPI application:
  ```bash
 uvicorn main:app --reload
 
-4. Access the API at http://127.0.0.1:8000
+
