@@ -35,6 +35,7 @@ To set up and run the project, follow these steps:
 2. Install the dependencies:
  ```bash
 pip install -r requirements.txt
+
 3. Run the FastAPI application:
  ```bash
 uvicorn main:app --reload
