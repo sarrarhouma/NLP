@@ -71,7 +71,7 @@ Accepts an audio file and returns the predicted recipe title and extracted ingre
 POST /search/:
 Accepts a keyword or ingredient list and returns the predicted recipe title.
 
-     ![Capture d'écran 2024-12-12 170715](https://github.com/user-attachments/assets/4db70693-1366-4785-b7cd-8df737282577)
+![Capture d'écran 2024-12-12 170715](https://github.com/user-attachments/assets/4db70693-1366-4785-b7cd-8df737282577)
 
    
     
