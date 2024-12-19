@@ -56,11 +56,13 @@ Navigate to the backend folder:
 cd backend
 
 Install dependencies:
+   ```bash
 pip install -r requirements.txt
-
+```
 Start the FastAPI application:
+ ```bash
 uvicorn main:app --reload
-
+```
 Access the API at http://localhost:8000
 ### API Endpoints
 Backend API
@@ -68,19 +70,7 @@ POST /predict/:
 Accepts an audio file and returns the predicted recipe title and extracted ingredients.
 POST /search/:
 Accepts a keyword or ingredient list and returns the predicted recipe title.
-### Future Enhancements
-🌍 Add support for multiple languages.
-📊 Provide nutritional information for predicted recipes.
-📱 Deploy the app as a Progressive Web App (PWA) for offline functionality.
-☁️ Host the application on a cloud platform like AWS or Azure.
-Contributing
-Contributions are welcome! You can help by:
 
-### Reporting issues.
-Suggesting new features.
-Submitting pull requests.
-Acknowledgements
-Special thanks to everyone who contributed to this project.
      ![Capture d'écran 2024-12-12 170715](https://github.com/user-attachments/assets/4db70693-1366-4785-b7cd-8df737282577)
 
    
